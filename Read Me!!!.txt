@@ -1,0 +1,29 @@
+THis is my latest project
+
+Run app.js
+Node.js must be installed
+
+The main purpose of this project is the learn:
+					How to create a backend for eccomerce webites
+					Learn noSQL databases
+					How to connect to a database (MongoDB)
+					Learn the basics of Dynamic web design using Document Object Model (DOM)
+					Create admin Page with direct access to my database
+					
+This is Just the backend API
+
+The database being used is MongoDB Atlas
+			URL: https://cloud.mongodb.com/v2#/org/67338def2cbb3065a11ffbd0/projects
+			Username:ronnell12321@gmail.com
+			Password:Panzershrek_69
+
+In order to access the database will need to log into my MongoDB Atlas, 
+
+Click project0,
+then go to Security on the left hand side of the page,
+Click Network Access
+And add your current ip address
+
+(If this isn't done, when you run the app.js backend code it will deny access to the cluster collection/Database)
+
+I also used postman to post/Get info to the Database for now @@

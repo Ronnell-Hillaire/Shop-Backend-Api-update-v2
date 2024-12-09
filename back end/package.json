@@ -1,0 +1,21 @@
+{
+  "name": "shop",
+  "version": "1.0.0",
+  "description": "backend of shop",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ronnell",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mongodb": "^6.11.0",
+    "mongoose": "^8.8.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.1.7"
+  }
+}
